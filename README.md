@@ -1,10 +1,10 @@
-# Student Performance Analysis Based on Socioeconomic Factors
+# Student Performance Analysis
 
 An exploratory machine learning project that analyzes student background and performance data using preprocessing, visualization, clustering, and classification. The goal is to understand how socioeconomic, demographic, and academic factors relate to student outcomes and to compare unsupervised and supervised machine learning approaches on the same dataset.
 
 ## Project Overview
 
-This repository is centered on the notebook [Student_Performance_Analysis_Based_on_Socioeconomic_Factors.ipynb](Student_Performance_Analysis_Based_on_Socioeconomic_Factors.ipynb), which includes:
+This repository is centered on the notebook [Student_Performance_Analysis_Notebook.ipynb](Student_Performance_Analysis_Notebook.ipynb), which includes:
 
 - Data loading and cleaning
 - Exploratory data analysis and visualizations
@@ -22,9 +22,9 @@ This repository is centered on the notebook [Student_Performance_Analysis_Based_
 
 ## Repository Structure
 
-- [Student_Performance_Analysis_Based_on_Socioeconomic_Factors.ipynb](Student_Performance_Analysis_Based_on_Socioeconomic_Factors.ipynb) - main analysis notebook
-- [Student_Performance_Analysis_Based_on_Socioeconomic_Factors.html](Student_Performance_Analysis_Based_on_Socioeconomic_Factors.html) - static HTML preview of the notebook
-- [Student_Performance_Analysis_Based_on_Socioeconomic_Factors_Report.pdf](Student_Performance_Analysis_Based_on_Socioeconomic_Factors_Report.pdf) - project report
+- [Student_Performance_Analysis_Notebook.ipynb](Student_Performance_Analysis_Notebook.ipynb) - main analysis notebook
+- [Student_Performance_Analysis_Notebook.html](Student_Performance_Analysis_Notebook.html) - static HTML preview of the notebook
+- [Student_Performance_Analysis_Report.pdf](Student_Performance_Analysis_Report.pdf) - project report
 - [LICENSE](LICENSE) - MIT license
 - [requirements.txt](requirements.txt) - Python dependencies
 
