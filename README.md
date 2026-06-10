@@ -25,6 +25,7 @@ This repository is centered on the notebook [Student_Performance_Analysis_Based_
 - [Student_Performance_Analysis_Based_on_Socioeconomic_Factors.ipynb](Student_Performance_Analysis_Based_on_Socioeconomic_Factors.ipynb) - main analysis notebook
 - [Student_Performance_Analysis_Based_on_Socioeconomic_Factors.html](Student_Performance_Analysis_Based_on_Socioeconomic_Factors.html) - static HTML preview of the notebook
 - [Student_Performance_Analysis_Based_on_Socioeconomic_Factors_Report.pdf](Student_Performance_Analysis_Based_on_Socioeconomic_Factors_Report.pdf) - project report
+- [LICENSE](LICENSE) - MIT license
 - [requirements.txt](requirements.txt) - Python dependencies
 
 ## Tech Stack
