@@ -23,7 +23,6 @@ This repository is centered on the notebook [Student_Performance_Analysis_Notebo
 ## Repository Structure
 
 - [Student_Performance_Analysis_Notebook.ipynb](Student_Performance_Analysis_Notebook.ipynb) - main analysis notebook
-- [Student_Performance_Analysis_Notebook.html](Student_Performance_Analysis_Notebook.html) - static HTML preview of the notebook
 - [Student_Performance_Analysis_Report.pdf](Student_Performance_Analysis_Report.pdf) - project report
 - [LICENSE](LICENSE) - MIT license
 - [requirements.txt](requirements.txt) - Python dependencies
